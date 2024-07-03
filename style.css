@@ -1,5 +1,5 @@
 body {
-  background-color:  #eeeeee;
+  background-color:  #562dc0;
   font-family: Helvetica, Arial, sans-serif
 }
 
@@ -47,12 +47,13 @@ padding: 0;
 #main {
 width: 600px;
 float: right;
+font-size: medium;
 }
 
 #footer {
 clear: both;
 padding: 10px;
 background-color: #999999;
-color: white;
+color: blue;
 text-align: right;
 }
